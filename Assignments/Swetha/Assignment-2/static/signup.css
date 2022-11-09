@@ -1,0 +1,32 @@
+form{
+    margin: 150px auto;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    background-color: rgba(27, 148, 196, 0.384);
+    border-radius: 30px;
+}
+input{
+    width: 90%;
+    height: 30px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+label{
+    width: 100%;
+
+}
+#submit{
+    width: 50%;
+    font-weight: bolder;
+    border-radius: 30px;
+    background-color: rgb(43, 9, 236);
+}
+
+#submit:hover{
+    background-color: rgba(31, 226, 155, 0.301);
+}
+body{
+    background-image: url("/static/images/d.jpg");
+    background-size: cover;
+}
